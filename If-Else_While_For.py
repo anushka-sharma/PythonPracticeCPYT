@@ -1,6 +1,8 @@
 #using turtle functions for example
 import turtle
 anushka_turtle=turtle.Turtle()
+#for changing speed of turtle
+anushka_turtle.speed(10)
 
 def square():
   anushka_turtle.forward(100)
@@ -30,3 +32,7 @@ while anushka=="happy":
    
 
 #FOR LOOP    
+for count in range(4):
+  square()
+#4 squares  
+  

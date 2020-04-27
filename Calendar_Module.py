@@ -1,4 +1,6 @@
 import calendar
+#import datetime
+#import time
 
 #print days of a week with defined header length
 print(calendar.weekheader(3))

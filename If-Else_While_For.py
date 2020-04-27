@@ -23,5 +23,10 @@ else:
    
    
 # WHILE LOOP   
+anushka="happy"
+
+while anushka=="happy":
+  anushka_turtle.forward(10)
    
-   
+
+#FOR LOOP    
